@@ -32,20 +32,20 @@ Here is a README.md file for your project:
 
 ## Controls
 
-A: Move the cubes to the left.
-D: Move the cubes to the right.
-W: Start rolling the cubes upwards.
-S: Start rolling the cubes downwards.
-R: Start rotating the cubes automatically.
+- A: Move the cubes to the left.
+- D: Move the cubes to the right.
+- W: Start rolling the cubes upwards.
+- S: Start rolling the cubes downwards.
+- R: Start rotating the cubes automatically.
 
 ## Code Overview
 
-The main script is RotatingSnakeCubes.py.
-The script initializes a Pygame window with an OpenGL context.
-It defines the vertices and triangles for the cubes.
-The draw_cube function renders a single cube with a specified color.
-The draw_cubes function renders a series of cubes with different colors.
-The main loop handles user input and updates the cube transformations.
+- The main script is RotatingSnakeCubes.py.
+- The script initializes a Pygame window with an OpenGL context.
+- It defines the vertices and triangles for the cubes.
+- The draw_cube function renders a single cube with a specified color.
+- The draw_cubes function renders a series of cubes with different colors.
+- The main loop handles user input and updates the cube transformations.
 
 ## License
 
